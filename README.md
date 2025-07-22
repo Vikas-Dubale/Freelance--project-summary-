@@ -1,4 +1,4 @@
-# Freelance Projects Summary
+# Freelance Projects Frontend-
 
 This document outlines freelance and contract-based **frontend projects** I’ve worked on since July 2023. These projects showcase my work in **React.js, Next.js, Tailwind CSS**, and more. Most projects are under NDA, so I’ve provided detailed technical summaries instead of source code.
 
